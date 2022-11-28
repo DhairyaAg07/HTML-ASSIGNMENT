@@ -1,2 +1,10 @@
 # HTML-ASSIGNMENT
-creating a page in your GitHub profile about the HTML 5 course and uploading some of the sample programs relevant to HTML 5 and this course in it. 
+
+
+
+Hey Everyone
+This is my profile page which I made in html and css.
+
+
+You can visit my profile via profile.html file
+
